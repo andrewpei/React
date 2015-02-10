@@ -4,11 +4,19 @@
         "text": "Hey there!"
     },
     {
-        "author": "Andrew",
-        "text": "Pei"
+        "author": "Andrew Pei",
+        "text": "I am learning react"
     },
     {
         "author": "Jered M",
         "text": "I like to make chili"
+    },
+    {
+        "author": "Bob Smith",
+        "text": "Where am I"
+    },
+    {
+        "author": "Mark Z",
+        "text": "I still dont get react"
     }
 ]
